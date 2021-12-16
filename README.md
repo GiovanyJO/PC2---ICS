@@ -5,12 +5,12 @@ En este proyecto, analizaremos algunos datos, en este caso la pokedex regional d
 
 #### Integrantes:
 
-| Estudiante | ID GitHub |
-| ----------- ------------- |
-| Alejandro Gerardo Calizaya Alvarez  | 91271621  |
-| Jose Eddison Pinedo Espinoaza | 91136098  |
-| Fernando Joaquin Pedroza Llanto | 91271625  |
-| Giovany Junior Ocaña Ramirez | 91271610  |
+- Estudiante  ID GitHub
+
+- Alejandro Gerardo Calizaya Alvarez  91271621  
+- Jose Eddison Pinedo Espinoaza  91136098  
+- Fernando Joaquin Pedroza Llanto  91271625  
+- Giovany Junior Ocaña Ramirez| 91271610  
 
 
 
