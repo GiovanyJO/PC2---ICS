@@ -4,6 +4,7 @@
 En este proyecto, analizaremos algunos datos, en este caso la pokedex regional de Kanto. Vamos a mostrar algunos gráficos con respecto a los datos de los pokemones, como sus debilidades, tipos, ubicación, etc.
 
 #### Integrantes:
+
 | Estudiante | ID GitHub |
 | ----------- ------------- |
 | Alejandro Gerardo Calizaya Alvarez  | 91271621  |
