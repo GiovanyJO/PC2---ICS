@@ -26,3 +26,5 @@ Hemos creado *4 archivos* que contienen, cada uno, una función. En la pantalla 
 ![Grafico](Screenshot_180.png)
 - Pie: Este gráfico nos muestra el porcentaje de cada tipo de pokemon existente en la 1ra Generación
 ![Grafico](Screenshot_179.png)
+## Link de Replit
+https://replit.com/@Alejandro-Gerar/PC2-ICS#main.py
