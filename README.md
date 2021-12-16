@@ -6,10 +6,10 @@ En este proyecto, analizaremos algunos datos, en este caso la pokedex regional d
 #### Integrantes:
  
 
-- Alejandro Gerardo Calizaya Alvarez  91271621 (ID GitHub)
-- Jose Eddison Pinedo Espinoaza  91136098 (ID GitHub) 
-- Fernando Joaquin Pedroza Llanto  91271625 (ID GitHub)  
-- Giovany Junior Ocaña Ramirez  91271610  (ID GitHub)
+- Alejandro Gerardo Calizaya Alvarez - 91271621 (ID GitHub)
+- Jose Eddison Pinedo Espinoaza - 91136098 (ID GitHub) 
+- Fernando Joaquin Pedroza Llantos - 91271625 (ID GitHub)  
+- Giovany Junior Ocaña Ramirez - 91271610  (ID GitHub)
 
 
 
