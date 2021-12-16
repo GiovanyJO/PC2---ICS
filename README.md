@@ -15,7 +15,8 @@ En este proyecto, analizaremos algunos datos, en este caso la pokedex regional d
 
 ## Instrucciones para ejecutar el proyecto
 Hemos creado *4 archivos* que contienen, cada uno, una función. En la pantalla de inicio, vamos a pedir al usuario que ingrese una opción para visualizar un gráfico.
-
+#### Link de Replit
+https://replit.com/@Alejandro-Gerar/PC2-ICS#main.py
 ### Gráficos
 - Scatterplot: Este gráfico nos muestra los pesos y alturas de cada pokemon.
 ![Grafico](Screenshot_181.png)
@@ -25,5 +26,3 @@ Hemos creado *4 archivos* que contienen, cada uno, una función. En la pantalla 
 ![Grafico](Screenshot_180.png)
 - Pie: Este gráfico nos muestra el porcentaje de cada tipo de pokemon existente en la 1ra Generación
 ![Grafico](Screenshot_179.png)
-## Link de Replit
-https://replit.com/@Alejandro-Gerar/PC2-ICS#main.py
